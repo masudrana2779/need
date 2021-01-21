@@ -1,3 +1,3 @@
 # This is very helpful link
 
-  https://bennettfeely.com/clippy/
+clip-path style for img [demo][https://bennettfeely.com/clippy/]
